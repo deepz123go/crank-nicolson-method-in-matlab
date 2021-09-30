@@ -1,0 +1,4 @@
+Crank–Nicolson method is a finite difference method used for numerically solving the heat equation and similar partial differential equations.
+Plate of 100X100 is taken with 0 C as temperature for inside portions except boundaries
+Boundaries temperature of the plate are defined by user along with diffusivity.
+the temperature distribution after 2 seconds is calulated throughout the plate using crank nicolson method
